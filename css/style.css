@@ -9,6 +9,10 @@
 	--red: #B3261E;
 }
 
+.nav-link.active {
+	font-weight: 700;
+}
+
 body {
 	font-family: "Open Sans", sans-serif;
 	color: var(--text);
@@ -16,6 +20,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h5,
+.navbar-brand {
 	font-family: "Montserrat", sans-serif;
 }
