@@ -1,0 +1,21 @@
+/* Colours and fonts – Tudor Puiu */
+
+:root {
+	--forest-green: #2F6B3F;
+	--leaf-green: #7FB77E;
+	--yellow: #F7C85C;
+	--cream: #FFF6C0;
+	--text: #2B2B2B;
+	--red: #B3261E;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+	color: var(--text);
+}
+
+h1,
+h2,
+h3 {
+	font-family: "Montserrat", sans-serif;
+}
